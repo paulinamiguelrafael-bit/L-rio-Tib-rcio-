@@ -1,0 +1,5 @@
+{
+  "name": "Conect",
+  "description": "Conect - Aplicativo de caronas e serviços de transporte. Fundado por Lério Tibúrcio.",
+  "requestFramePermissions": ["geolocation"]
+}
